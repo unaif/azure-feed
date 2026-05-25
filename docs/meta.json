@@ -1,6 +1,6 @@
 {
   "source": "https://download.microsoft.com/download/7/1/d/71d86715-5596-4529-9b13-da13a5de5b63/ServiceTags_Public_20260511.json",
-  "fetched_at": "2026-05-18T10:43:03+00:00",
+  "fetched_at": "2026-05-25T10:51:33+00:00",
   "change_number": 400,
   "counts": {
     "ipv4_total": 42230,

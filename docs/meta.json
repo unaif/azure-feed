@@ -1,13 +1,13 @@
 {
-  "source": "https://download.microsoft.com/download/7/1/d/71d86715-5596-4529-9b13-da13a5de5b63/ServiceTags_Public_20260928.json",
-  "fetched_at": "2026-10-05T14:48:39+00:00",
-  "change_number": 420,
+  "source": "https://download.microsoft.com/download/7/1/d/71d86715-5596-4529-9b13-da13a5de5b63/ServiceTags_Public_20261005.json",
+  "fetched_at": "2026-10-12T15:35:03+00:00",
+  "change_number": 421,
   "counts": {
-    "ipv4_total": 44164,
-    "ipv6_total": 16901,
+    "ipv4_total": 44193,
+    "ipv6_total": 16905,
     "service_tags": 3321,
-    "frontdoor_ipv4": 327,
-    "storage_ipv4": 2066,
+    "frontdoor_ipv4": 329,
+    "storage_ipv4": 2071,
     "sql_ipv4": 1673
   }
 }
